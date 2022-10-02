@@ -1,0 +1,2 @@
+# DataExploration_A1
+Trabalho de Análise Exploratória de Dados. Consiste em uma etapa de pesquisa de conceitos estatísticos e sua aplicação em uma base de dados real. Os conjuntos de dados são de uma base que relaciona salários de funcionários com seus respectivos tempos de trabalho, em anos, em uma empresa. Com isso, perguntas como: "Funcionários com mais tempo de empresa possuem salários mais altos?" puderam ser respondidas.
